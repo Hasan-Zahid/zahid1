@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #000;
+
+}
+/* p{
+    color: white;
+} */
+#home {
+	display: flex;
+	justify-content: space-between;
+    padding-top: 25px;
+}
+.logo{
+    display: flex;
+    padding-left: 20px;
+}
+.logoimg{
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        border: 2px red solid;
+
+}
+.logotext {
+        color: white;
+        font-size: 15px;
+        font-weight: 100;
+        line-height: 40px;
+        padding-left: 10px;
+    }
+
+nav ul  {
+    display: flex ;
+    
+}
+nav ul li{
+    list-style-type: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 15px 8px;
+    font-size: 15px;
+    color: white;
+    font-weight: 100;
+}
+/* heder end */
+.hero_area{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.hero_left{
+    width: 52%;
+    color: white;
+    padding-left: 8px;
+}
+.herot1{
+    font-size: 12px;
+    padding-left: 5px;
+}
+.herot2{
+    font-size: 40px;
+    padding-left: 5px;
+}
+span{
+    color:red;
+}
+.heropragraph{
+    font-size: 17px;
+}
+.heroleftbottom{
+    padding-top: 60px;
+    
+}
+#middle{
+    padding: 0 35px;
+}
+.bottomp{
+    font-size: 10px;
+    padding-bottom: 20px;
+}
+
+
+
+
+.hero_right{
+   padding-right: 20px;
+}
+.hero_img{
+    height: 300px;
+    width: 300px;
+    
+}
+
+/* hero_sec end */
+
+.section1{
+    padding-top: 60px;
+    padding-left: 15px;
+}
+
+.sec1h1{
+    color: white;
+    padding-bottom: 20px;
+}
+#sec1logo{
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-left: 10px;
+}
+.sec1h2{
+    color: thistle;
+}
+.sec1top{
+    display: flex;
+}
+/* .box1{
+    background-color: thistle;
+} */
+.sec1p{
+    color: thistle;
+}
+.sec1bottom{
+    display: flex;
+    padding-top: 25px;
+}
+.section2{
+    padding-top: 30px;
+}
