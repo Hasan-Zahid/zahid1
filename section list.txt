@@ -1,0 +1,26 @@
+Project Name: Market Analysis
+ Section Name
+	#Menu Area{
+		.Start
+		.Grow
+		.Lead
+		.Demo
+		.About US
+		.Contact US
+		}
+	#Hero Area{
+		.Background Video with Slider
+		.Motivisional Text
+		.Button(learn more)
+		}
+	#Determine Your Purpose{
+		
+	#Target Market
+	#Market Need
+	#Competotion
+	#Market Value
+	#Potential Customers
+	#Competitve
+	#Forecast
+	#Footer
+	#
